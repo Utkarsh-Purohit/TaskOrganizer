@@ -1,1 +1,1 @@
-A task planner using Flask Framework
+A task planner using the Flask Framework .
